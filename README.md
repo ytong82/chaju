@@ -1,7 +1,7 @@
 #chaju
-“察举”是一个国内主流弹幕网站爬虫。
+Chaju is a crawler collection for popular Chinese Danmu website.
 
-支持下面网站：
+Support below websites.
 panda.tv
 douyu.com
 bilibili.com
